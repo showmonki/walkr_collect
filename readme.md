@@ -1,5 +1,5 @@
 # walkr_collect
-Automatically collect Planet's products in a game called Walkr
+Automatically collect Planet's products in Walkr
 ## Objectives
 - Collect food
 - Collect completed planet's product. 
